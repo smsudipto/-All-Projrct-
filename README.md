@@ -3,7 +3,7 @@
 ### ১.[Save-and-Sell-Food]
 Link:https://github.com/smsudipto/Save-and-Sell-food
 
-Description:["A web-based platform designed to reduce food waste by collecting surplus food and distributing it through low-cost sales and donations to those in need. Built with HTML, CSS, JS, Python, Django, and MongoDB."}
+Description:"A web-based platform designed to reduce food waste by collecting surplus food and distributing it through low-cost sales and donations to those in need. Built with HTML, CSS, JS, Python, Django, and MongoDB."
 
 ### 2.[Car_Drive_Game-main]
 Link:https://github.com/smsudipto/Car_Drive_Game-main
